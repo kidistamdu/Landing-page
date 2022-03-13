@@ -45,6 +45,7 @@ nav > ul {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    list-style: none;
 }
 .container {
     max-width: 1000px;
@@ -170,6 +171,7 @@ footer {
 footer > ul {
     display: flex;
     justify-content: flex-end;
+    list-style: none;
 }
 footer > ul > li {
     padding: 0 10px;
